@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.header('🎈 App Name')
+st.title('✅ Checkbox App')
 
-st.write('Hello world!')
+func1_box = st.checkbox('Function 1')
